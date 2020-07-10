@@ -1,0 +1,14 @@
+2020-07-10 17:18:42,279 [main] INFO  com.huwei.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-J7NPVVP with PID 28556 (E:\other\myspring\target\myspring-1.0-SNAPSHOT.jar started by pc in E:\other\myspring\target)
+2020-07-10 17:18:42,282 [main] INFO  com.huwei.Application - No active profile set, falling back to default profiles: default
+2020-07-10 17:18:43,275 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-07-10 17:18:43,285 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-07-10 17:18:43,286 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-07-10 17:18:43,286 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-07-10 17:18:43,340 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-07-10 17:18:43,340 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1026 ms
+2020-07-10 17:18:43,692 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-10 17:18:43,746 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-07-10 17:18:43,852 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-07-10 17:18:43,874 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-07-10 17:18:43,877 [main] INFO  com.huwei.Application - Started Application in 2.03 seconds (JVM running for 2.374)
+2020-07-10 17:19:29,180 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
